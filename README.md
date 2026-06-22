@@ -146,6 +146,13 @@ I build scalable cloud infrastructure, automate deployments, and create reliable
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RashmiPundir9\&theme=tokyonight)
 
 ---
+# **📈 CONTRIBUTION GRAPH**
+
+[![Rashmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmiPundir9&theme=tokyo-night)](https://github.com/RashmiPundir9)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AWS+Cloud+Engineer;DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;Selenium+Automation+Tester;Building+Cloud+Infrastructure+at+Scale">
+</p>
 
 # **📫 CONNECT WITH ME**
 
