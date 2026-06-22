@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="rashmiphoto.jpg.png" width="220">
+  <img src="rashmiphotograph.jpg.png" width="220">
 </div>
 
 <h1 align="center">Hi, I'm Rashmi Pundir 👋</h1>
