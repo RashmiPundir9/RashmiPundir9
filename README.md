@@ -2,8 +2,6 @@
   <img src="rashmiphotograph1.jpg.png" width="220">
 </div>
 
-<h1 align="center">Hi, I'm Rashmi Pundir 👋</h1>
-
 
 # Hi, I'm Rashmi Pundir 👋
 
