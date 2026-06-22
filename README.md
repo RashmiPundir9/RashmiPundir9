@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="rashmi.jpg" alt="Rashmi Pundir" width="220"/>
+</p>
+
+
 # Hi, I'm Rashmi Pundir 👋
 
 ### AWS Cloud & DevOps Engineer 
