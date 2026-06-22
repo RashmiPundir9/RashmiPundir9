@@ -3,11 +3,11 @@
 </div>
 
 
-# Hi, I'm Rashmi Pundir 👋
+# Hi, I'm Rashmi Pundir 😊
 
-### AWS Cloud & DevOps Engineer 
+### AWS Cloud & DevOps Engineer | Automation Tester
 
-☁️ AWS • 🚀 DevOps • 🐳 Docker • ⚙️ Terraform • 🔧 Jenkins • 🧪 Selenium • 🐍 Python
+☁️ AWS (EC2, S3, IAM, Lambda, CloudFront, CloudWatch, Route 53, API Gateway, ECR) • 🚀 DevOps (CI/CD, Jenkins, GitHub Actions, Terraform, CloudFormation) • 🐳 Docker • ☸️ Kubernetes • 🧪 Selenium & Pytest • 🐍 Python • 🐧 Linux
 
 I build scalable cloud infrastructure, automate deployments, and create reliable CI/CD pipelines using modern DevOps practices.
 
@@ -154,7 +154,6 @@ I build scalable cloud infrastructure, automate deployments, and create reliable
 # **📫 CONNECT WITH ME**
 
 * 💼 LinkedIn: https://linkedin.com/in/rashmi-pundir
-* 🐙 GitHub: https://github.com/RashmiPundir9
 * 📧 Email: [rashmipundir009@gmail.com](mailto:rashmipundir009@gmail.com)
 
 ---
