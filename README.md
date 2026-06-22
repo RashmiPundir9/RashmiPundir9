@@ -4,11 +4,6 @@
 
 <h1 align="center">Hi, I'm Rashmi Pundir 👋</h1>
 
-<h3 align="center">AWS Cloud & DevOps Engineer</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AWS+Cloud+Engineer;DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;Selenium+Automation+Tester">
-</p>
 
 # Hi, I'm Rashmi Pundir 👋
 
