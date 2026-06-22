@@ -74,16 +74,25 @@ I build scalable cloud infrastructure, automate deployments, and create reliable
 * Improved release reliability through DevOps best practices.
 
 ---
-
 # **🛠️ TECH STACK**
 
-## ☁️ Cloud Platforms
+## ☁️ Cloud Platforms & AWS Services
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
+![Route53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge)
+![ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge)
 
 ## 🚀 DevOps & CI/CD
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
@@ -95,13 +104,20 @@ I build scalable cloud infrastructure, automate deployments, and create reliable
 ## 💻 Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
 
-## 🧪 Testing
+## 🧪 Testing & Automation
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+![POM](https://img.shields.io/badge/Page_Object_Model-02569B?style=for-the-badge)
+
+## 🔧 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
