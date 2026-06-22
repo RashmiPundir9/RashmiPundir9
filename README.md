@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="rashmi.jpg" alt="Rashmi Pundir" width="220"/>
-</p>
+<div align="center">
+  <img src="rashmiphoto.jpg.png" width="220">
+</div>
 
+<h1 align="center">Hi, I'm Rashmi Pundir 👋</h1>
+
+<h3 align="center">AWS Cloud & DevOps Engineer</h3>
 
 # Hi, I'm Rashmi Pundir 👋
 
